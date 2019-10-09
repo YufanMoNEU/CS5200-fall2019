@@ -7,4 +7,4 @@ http://cs5200fall2019mo-project2.p72ajzi9zt.us-east-2.elasticbeanstalk.com/api/h
 
 http://cs5200fall2019mo-project2.p72ajzi9zt.us-east-2.elasticbeanstalk.com/api/hello/insert/Spring's%20the%20Best
 
-http://cs5200fall2019mo-project2.p72ajzi9zt.us-east-2.elasticbeanstalk.com/api/hello/api/hello/select/all
+http://cs5200fall2019mo-project2.p72ajzi9zt.us-east-2.elasticbeanstalk.com/api/hello/select/all
