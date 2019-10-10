@@ -1,0 +1,5 @@
+Yufan Mo (001200818) - Assignment2
+Hostname: cs5200-fall2019-mo.ch72vbds6myw.us-east-2.rds.amazonaws.com
+Username: yufancs5200
+Password: 19950219myf
+Port: 3306
