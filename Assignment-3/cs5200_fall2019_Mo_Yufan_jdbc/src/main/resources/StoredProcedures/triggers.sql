@@ -1,4 +1,4 @@
-USE `cs5200_fall2019_Mo_jdbc`;
+USE `jdbc`;
 
 DROP TRIGGER IF EXISTS `after_websiteRole_insert`;
 DROP TRIGGER IF EXISTS `after_websiteRole_update`;
