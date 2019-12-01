@@ -1,4 +1,4 @@
-USE `cs5200_fall2019_Mo_jdbc`;
+USE `jdbc`;
 
 DROP TABLE IF EXISTS `answer`;
 DROP TABLE IF EXISTS `question`;
