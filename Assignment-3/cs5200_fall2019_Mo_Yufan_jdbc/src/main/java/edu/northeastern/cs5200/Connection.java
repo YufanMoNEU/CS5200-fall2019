@@ -7,7 +7,7 @@ import java.sql.DriverManager;
 public class Connection {
 
 	private static final String DRIVER = "com.mysql.jdbc.Driver";
-	private static final String URL = "jdbc:mysql://cs5200-fall2019-mo.ch72vbds6myw.us-east-2.rds.amazonaws.com/cs5200_fall2019_Mo_jdbc";
+	private static final String URL = "jdbc:mysql://cs5200-fall2019-mo.ch72vbds6myw.us-east-2.rds.amazonaws.com/jdbc";
 	private static final String USER = "yufancs5200";
 	private static final String PASSWORD = "19950219myf";
 	private static 	java.sql.Connection dbConnection = null;
